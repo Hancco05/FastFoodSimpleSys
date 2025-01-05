@@ -1,0 +1,1 @@
+He agregado comentarios para mejorar la claridad y utilidad del documento, incluyendo sugerencias sobre simplificación visual, introducciones breves y la adición de detalles útiles en el ejemplo de la boleta. Si necesitas ajustes específicos, házmelo saber.
